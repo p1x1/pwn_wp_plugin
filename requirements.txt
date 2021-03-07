@@ -1,0 +1,5 @@
+urllib3==1.25.8
+pwntools==4.3.1
+requests==2.25.1
+colorama==0.4.4
+pwn==1.0
